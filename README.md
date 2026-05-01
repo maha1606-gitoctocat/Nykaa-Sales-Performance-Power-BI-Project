@@ -77,4 +77,4 @@ This project presents an interactive **Sales Analysis Dashboard** for Nykaa, bui
 ##  Conclusion
 This dashboard provides a **holistic view of Nykaa’s sales performance**, enabling stakeholders to make **data-driven decisions**, identify growth opportunities, and optimize business strategies.
 
-![Alt text[(https://github.com/maha1606-gitoctocat/Nykaa-Sales-Performance-Power-BI-Project/blob/2e321579388ab238fb9183d8686b551d00de85d6/Nykaa%20Dashboard.jpg)
+![Alt text](https://github.com/maha1606-gitoctocat/Nykaa-Sales-Performance-Power-BI-Project/blob/2e321579388ab238fb9183d8686b551d00de85d6/Nykaa%20Dashboard.jpg)
